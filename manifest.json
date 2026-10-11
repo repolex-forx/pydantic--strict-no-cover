@@ -1,0 +1,30 @@
+{
+  "manifest_version": "1.0",
+  "org": "pydantic",
+  "repo": "strict-no-cover",
+  "versions": [
+    {
+      "commit": "6c644106e03138abae01d8d60105d4a7ad4916a1",
+      "parsed_at": "2026-10-11T19:24:52.934832+00:00",
+      "filetree": "filetree/6c644106e03138abae01d8d60105d4a7ad4916a1.nq.gz",
+      "blobs": [
+        "blob/505a3b1ca2716907d5b292ab90c36df043c42bb6.nq.gz",
+        "blob/a01521bb5ea8b1a1c0484cfedb57073002d124d7.nq.gz",
+        "blob/bf110f1102e35a9647413c032adedace0ff31f58.nq.gz",
+        "blob/2f32272eace56ddca96ef8ef92e5ffe930f1035b.nq.gz",
+        "blob/0158d7f4437a7c681a37010be74fafff8254b59e.nq.gz",
+        "blob/24ee5b1be9961e38a503c8e764b7385dbb6ba124.nq.gz",
+        "blob/a66987802750c5472b2d6e555caffaa57cabfbbc.nq.gz",
+        "blob/3abf8f801d0fbe23077e40ffb5ff9516d2e39333.nq.gz",
+        "blob/c2f91267dadaba33339c4b8e15e26fd5e1ea4cdd.nq.gz",
+        "blob/b7354be2cee1d4177c56c2c4e015ec8e02fd2c62.nq.gz",
+        "blob/36168bbdae093491df1c89d8ec89bd7876ee2a99.nq.gz"
+      ]
+    }
+  ],
+  "commit": "commit/commit.nq.gz",
+  "branch": "branch/branch.nq.gz",
+  "tag": "tag/tag.nq.gz",
+  "issue": "issue/issue.nq.gz",
+  "pr": "pr/pr.nq.gz"
+}
