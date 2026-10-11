@@ -1,0 +1,11 @@
+{
+  "org": "pydantic",
+  "repo": "strict-no-cover",
+  "versions": [
+    {
+      "commit": "6c644106e03138abae01d8d60105d4a7ad4916a1",
+      "tag": "",
+      "parsed_at": "2026-10-11T19:26:58.115018+00:00"
+    }
+  ]
+}
